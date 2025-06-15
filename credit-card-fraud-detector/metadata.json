@@ -1,0 +1,5 @@
+{
+  "name": "Credit Card Fraud Detector",
+  "description": "An application to detect potentially fraudulent credit card transactions using AI, and to visualize common fraud detection metrics.",
+  "requestFramePermissions": []
+}

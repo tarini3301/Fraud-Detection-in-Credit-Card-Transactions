@@ -1,0 +1,5 @@
+{
+  "name": "Credit Card Fraud Detector AI (Streamlit)",
+  "description": "A Streamlit application to simulate credit card fraud detection using AI. Users can input transaction details and receive a fraud assessment. Includes illustrative analytics like ROC curves and confusion matrices.",
+  "requestFramePermissions": []
+}
